@@ -9,7 +9,7 @@
 }
 
 .verseBg.mountainRoad {
-    background-image: url('/images/mountain_road.jpg');
+    background-image: url('../../public/images/mountain_road.jpg');
     background-size: 100% auto;
 }
 
